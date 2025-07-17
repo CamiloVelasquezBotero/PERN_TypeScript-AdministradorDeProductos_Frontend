@@ -1,4 +1,4 @@
-## Administrador De Products PERN
+# Administrador De Products PERN
 
 Este proyecto ns permite ingresar nuevos productos, darles una disponibilidad segun se necesite, editarlos o eliminarlos. Este proyecto una una API-REST creada en Node.js con Express la cual esta subida en otro repositorio aparte, el link de este esta al final junto con el Preview del proyecto. 
 Para este proyecto completo se usaron las siguientes tecnologias:
@@ -27,6 +27,6 @@ Para este proyecto completo se usaron las siguientes tecnologias:
   - Jest
   - Supertest
 
-Repositorio Backend: https://github.com/CamiloVelasquezBotero/REST_API_TypeScript_AdministradorDeProductos_Server
+### Repositorio Backend: https://github.com/CamiloVelasquezBotero/REST_API_TypeScript_AdministradorDeProductos_Server
 
-PREVIEW: https://pern-type-script-administrador-de-p.vercel.app/
+### PREVIEW: https://pern-type-script-administrador-de-p.vercel.app/
