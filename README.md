@@ -30,3 +30,4 @@ Para este proyecto completo se usaron las siguientes tecnologias:
 ### Repositorio Backend: https://github.com/CamiloVelasquezBotero/REST_API_TypeScript_AdministradorDeProductos_Server
 
 ### PREVIEW: https://pern-type-script-administrador-de-p.vercel.app/
+Nota del Preview: La API esta  en un host de hobbie, por lo cual la primera peticion, puede durar alrededor de 50 seg mientras se habilita
