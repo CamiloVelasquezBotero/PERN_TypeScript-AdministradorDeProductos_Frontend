@@ -18,10 +18,10 @@ Para este proyecto completo se usaron las siguientes tecnologias:
   - Node
   - Express
   - Sequelize
-  - Swagger para documentacion
   - PostgreSQL
-  - Morgan
   - dotenv
+  - Morgan
+  - Swagger para documentacion
 
   ## Tests
   - Jest
